@@ -1,1 +1,1 @@
-This is the code of FedMSGL (AAAI 2025).
+This is the code of FedMSGL: A Self-Expressive Hypergraph Based Federated Multi-View Learning (AAAI 2025). In the construction of the central hypergraph, we used the gspbox toolbox to build KNN hypergraphs. Please enter gsp_start on the command line before running the code to enable it. For the hyperparameter tuning related to hypergraphs, please refer to https://epfl-lts2.github.io/gspbox-html/index.html.
